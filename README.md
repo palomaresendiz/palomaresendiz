@@ -1,4 +1,4 @@
-# Hello, I’m Paloma  
+# Hello, I’m Paloma!  
 🛠 Programming languages: C, C++, C#, Python, Java, HTML, CSS, and JS  
 💻 I’m interested in Software Engineering and Cybersecurity!  
 🌐 I’m currently learning Computer Networks  
