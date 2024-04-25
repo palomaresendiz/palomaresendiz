@@ -1,8 +1,8 @@
 # Hello, I’m Paloma!  
-🛠 Programming languages: C, C++, C#, Python, Java, HTML, CSS, and JS  
+🛠 Programming languages: Python, Java, HTML, CSS, JS, C, C++, and C# 
 💻 I’m interested in Software Engineering and Cybersecurity!  
-🌐 I’m currently learning Computer Networks  
-👾 I’m on a team that is developing a dungeon crawler game using Unity!  
+🌐 I’m currently learning about Computer Networks  
+👾 I’m on a team that is developing an endless runner game using Unity!  
 📫 You can reach me at 222palomaresendiz@gmail.com  
 
 ## Education
