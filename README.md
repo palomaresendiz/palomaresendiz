@@ -1,5 +1,5 @@
 # Hello, I’m Paloma!  
-🛠 Programming languages: Python, Java, HTML, CSS, JS, C, C++, and C# 
+🛠 Programming languages: Python, Java, HTML, CSS, JavaScript, C, C++, and C#     
 💻 I’m interested in Software Engineering and Cybersecurity!  
 🌐 I’m currently learning about Computer Networks  
 👾 I’m on a team that is developing an endless runner game using Unity!  
