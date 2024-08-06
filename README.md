@@ -1,13 +1,8 @@
 # Hello, I’m Paloma!  
-🛠 Programming languages: Python, Java, HTML, CSS, JavaScript, C, C++, and C#     
-💻 I’m interested in Software Engineering and Cybersecurity!  
-🌐 I’m currently learning about Computer Networks  
-👾 I’m on a team that is developing an endless runner game using Unity!  
-📫 You can reach me at 222palomaresendiz@gmail.com  
+🛠 Programming languages: Java, Python, HTML, CSS, JavaScript, C, C++, C#, and Dart
 
 ## Education
   Bachelor's Degree in Computer Science  
-  Minor in Psychology  
   Texas State University, San Marcos  
   May 2024
 <!---
