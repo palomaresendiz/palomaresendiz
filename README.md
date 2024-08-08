@@ -1,5 +1,5 @@
 # Hello, I’m Paloma!  
-🛠 Programming languages: Java, Python, HTML, CSS, JavaScript, C, C++, C#, and Dart
+👩🏻‍💻 Programming languages: Java, Python, HTML, CSS, JavaScript, C, C++, C#, and Dart
 
 ## Education
   Bachelor's Degree in Computer Science  
