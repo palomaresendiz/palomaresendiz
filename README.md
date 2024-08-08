@@ -3,6 +3,7 @@
 
 ## Education
   Bachelor's Degree in Computer Science  
+  Minor in Psychology  
   Texas State University, San Marcos  
   May 2024
 <!---
